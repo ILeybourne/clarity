@@ -1,4 +1,4 @@
-import { Privacy } from "@clarity-types/core";
+import { Privacy } from "./core";
 
 /* Enum */
 

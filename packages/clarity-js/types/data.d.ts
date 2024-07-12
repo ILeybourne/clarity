@@ -1,4 +1,4 @@
-import { Time } from "@clarity-types/core";
+import { Time } from "./core";
 export type Target = (number | Node);
 export type Token = (string | number | number[] | string[] | (string | number)[]);
 export type DecodedToken = (any | any[]);
